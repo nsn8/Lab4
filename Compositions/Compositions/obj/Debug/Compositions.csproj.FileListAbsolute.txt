@@ -1,0 +1,6 @@
+C:\Users\nikif\source\repos\Compositions\Compositions\bin\Debug\Compositions.dll
+C:\Users\nikif\source\repos\Compositions\Compositions\bin\Debug\Compositions.pdb
+C:\Users\nikif\source\repos\Compositions\Compositions\obj\Debug\Compositions.csprojAssemblyReference.cache
+C:\Users\nikif\source\repos\Compositions\Compositions\obj\Debug\Compositions.csproj.CoreCompileInputs.cache
+C:\Users\nikif\source\repos\Compositions\Compositions\obj\Debug\Compositions.dll
+C:\Users\nikif\source\repos\Compositions\Compositions\obj\Debug\Compositions.pdb
